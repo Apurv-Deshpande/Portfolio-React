@@ -1,0 +1,94 @@
+.nav-item.nav-link {
+    background-color: $col-background !important;
+    color: $col-text-pri !important;
+    border-color: rgb(29, 29, 29) !important;
+
+    &:hover {
+        background-color: lighten($col-background, 30%) !important;
+    }
+}
+
+.nav-item.nav-link.active {
+    background-color: lighten($col-background, 20%) !important;
+    color: $col-text-pri !important;
+    border-color: rgb(29, 29, 29) !important;
+}
+
+.nav.nav-tabs {
+    border: none;
+}
+
+.card {
+    border: none !important;
+}
+
+.card-body {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+}
+
+.portfolio-header {
+    margin-bottom: 50px;
+    overflow: hidden;
+
+    .code {
+        font-family: Consolas, monaco, monospace;
+        color: $col-text-sec;
+        white-space: nowrap;
+    }
+    h1 {
+        color: $col-text-pri;
+        text-align: center;
+    }
+    h2 {
+        color: $col-text-pri;
+        text-align: center;
+    }
+    p {
+        color: $col-text-sec;
+        max-width: 600px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+.portfolio-tab {
+    border: 1px solid #232324;
+    background-color: lighten($col-background, 1%);
+    padding: 20px;
+
+    h1 {
+        color: $col-text-pri;
+        text-align: center;
+        font-size: 130%;
+        margin-bottom: 20px;
+        color: $col-text-sec;
+    }
+    p {
+        color: $col-text-sec;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.download-counter {
+    color: #ff6d6d !important;
+    margin-left: 15px !important;
+}
+
+@media (min-width: 500px) {
+    .card-columns {
+        -webkit-column-count: 1 !important;
+        -moz-column-count: 1 !important;
+        column-count: 1 !important;
+    }
+}
+
+@media (min-width: 1000px) {
+    .card-columns {
+        -webkit-column-count: 2 !important;
+        -moz-column-count: 2 !important;
+        column-count: 2 !important;
+    }
+}

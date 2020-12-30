@@ -1,0 +1,141 @@
+{
+  "name": "Apurv Deshpande",
+  "titles": [
+    "Masters in Cloud Computing",
+    "Bachelor of Computer Science "
+  ],
+  "bio": "I am Computer Science Graduate with Master’s degree in Cloud Computing from National College of Ireland. I am a fast learner and eager to learn new technologies as needed with ability to multitask on projects.",
+  "contacts": {
+    "phone": "7219494098",
+    "email": "apurvdeshpande02@gmail.com",
+    "github": "Apurv-Deshpande"
+  },
+  "hobbies": [
+    "Web Development",
+    "Travelling",
+    "Football"
+  ],
+  "schools": [
+    {
+      "name": "National College Of Ireland",
+      "start": "2015",
+      "end": "2016",
+      "location": "Dublin, Ireland",
+      "major1": "Cloud Computing",
+      "coursework": [
+        {
+          "title": "Cloud Application Development",
+          "tags": [
+            "HTML5",
+            "CSS",
+            "Javascript",
+            "Bootstrap",
+            "Heroku",
+            "NodeJS"
+          ]
+        },
+        {
+          "title": "Cloud Application Development",
+          "tags": [
+            "AWS"
+          ]
+        },
+        {
+          "title": "Cloud Architecture",
+          "tags": [
+            "AWS"
+          ]
+        },
+        {
+          "title": "Cloud Security",
+          "tags": [
+            "AWS"
+          ]
+        },
+        {
+          "title": "Cloud Application Services",
+          "tags": [
+            "HTML5",
+            "CSS",
+            "Javascript",
+            "Bootstrap",
+            "Heroku",
+            "NodeJS"
+          ]
+        },
+        {
+          "title": "Programming for Data Analytics",
+          "tags": [
+            "JAVA",
+            "MYSQL",
+            "Excel",
+            "Hadoop",
+            "Hive"
+          ]
+        },
+        {
+          "title": "Research in Computing",
+          "tags": [
+            "AWS",
+            "Azure"
+          ]
+        },
+        {
+          "title": "Research Projects",
+          "tags": [
+            "AWS",
+            "Azure"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "College Of Engineering Manjri",
+      "start": 2010,
+      "end": 2014,
+      "location": "Pune, India",
+      "major1": "Computer Science",
+      "coursework": [
+        {
+          "title": "Object-oriented Programming and Software Engineering",
+          "tags": [
+            "Java"
+          ]
+        },
+        {
+          "title": "Relational Database Management Systems",
+          "tags": [
+            "Database",
+            "MySQL"
+          ]
+        },
+        {
+          "title": "Data Structures and Algorithms",
+          "tags": [
+            "C",
+            "Data Structures"
+          ]
+        },
+        {
+          "title": "Networks and Security",
+          "tags": [
+            "Networking"
+          ]
+        },
+        {
+          "title": "Algorithms, Agents and Artificial Intelligence",
+          "tags": [
+            "Cpp",
+            "Data Structures"
+          ]
+        },
+        {
+          "title": "Discrete Structures",
+          "tags": [
+            "Maths"
+          ]
+        }
+      ]
+    }
+  ]
+}
